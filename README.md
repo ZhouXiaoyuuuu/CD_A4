@@ -1,6 +1,6 @@
 # CD_A4
 # Corpus Description  
-The Presidential Speech speeches from Biden, sourced from the Miller Center's website.
+The Presidential Speech speeches from Biden, sourced from the Miller Center's website. https://millercenter.org/the-presidency/presidential-speeches 
 
 # Target Audience and Intended Use  
 Designed for researchers and linguists, and prepare for the final project of our group.
